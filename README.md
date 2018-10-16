@@ -22,8 +22,10 @@ Feel free to make PRs. This repo is just a toy so Issues are not going to be ver
 
 ### Contact
 Twitter: @orangutanfuzz
+
 Reddit: @orangutanfuzz
+
 Email: orangutanfuzz@gmail.com
 
 #### P.S.
-I do not condone illegal behavior or activities. Please notify me if I am breaking any laws or NDS so I can rectify the situation.
+I do not condone illegal behavior or activities. Please notify me if I am breaking any laws or NDA so I can rectify the situation.
