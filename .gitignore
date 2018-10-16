@@ -1,0 +1,12 @@
+# IDE
+.vscode/
+
+# libtransistor DEFAULT
+*.o
+*.nro
+*.nro.so
+~
+# NintendoSDK components
+lib
+symbols
+include
